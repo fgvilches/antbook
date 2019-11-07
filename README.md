@@ -1,4 +1,4 @@
-![Alt text](ant_final.png?cropZoom=100,100 "Ant")
+![Alt text](ant_final.png?cropZoom=50,50 "Ant")
 --
 
 # Antbook Project - The personal computer totally based on cloud streaming.
