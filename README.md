@@ -1,4 +1,4 @@
-![Alt text](ant_final.png?cropZoom=10,100 "Ant")
+![Alt text](ant_final.png?raw=true "Ant")
 --
 
 # Antbook Project - The personal computer totally based on cloud streaming.
@@ -20,12 +20,13 @@ It is probably impossible to conceive the same workflow that is seen today in un
 But, why if the cloud is "as powerful" as seen on paper, we continue to carry heavy computers to have a decent computing power and graphics card?
 
 
-- [] Is it not possible what is suggested above?
-- [] Didn't we think about it?
-- [] Or is there a real limitation?
+- [ ] Is it not possible what is suggested above?
+- [ ] Didn't we think about it?
+- [ ] Or is there a real limitation?
 
 This is how in March 2018 I got to work to analyze if similar systems worked 100% "Cloud Based", and I found surprises such as the Nvidia Shield capable of streaming a large library of console games with the power of a cell phone. Or Latin American platforms such as GLOUD which (although at 720p) managed to stream smooth games and worked with a similar subscription system.
 But the one that caught my attention was Parsec (the one without a subscription system) offered to stream your computers, consoles and others without inputlag, over long distances and with a 10mbps connection.
+
 --
 
      |` _   .| _|_  _  _
