@@ -26,7 +26,7 @@ Tenga en cuenta que todo lo que sigue fue escrito y desarrollado en 2018.
   <br>
 </div>
 
-### 🚀 Primero que nada ... Some background
+### 🚀 Primero que nada... Some background
 
 Hoy en día no existe ninguna empresa tecnológica que no tenga un producto, solución o servicio adaptado a la nube. Es lo más moderno y actual y parece que quien no está en la nube no tendrá nada que hacer en el mundo tecnológico en el futuro. Como ejemplo de lo anterior tenemos las nubes de datos más usadas, 
 ¿Qué sería de los Universitarios a la hora de enviar apuntes sin la transmisión de archivos de WhatsApp o Airdrop? 
