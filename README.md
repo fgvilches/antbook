@@ -6,7 +6,8 @@
 
 The antbook project, as described in its abstract [file](https://github.com/fgvilches/antbook/blob/master/pj_ab_abs.pdf) consisted of designing a personal computer (accompanied by a subscription service) which was 100% based on cloud computing.
 
-This project was developed during the first semester of 2018 by the Ant team, and although it did not reach more than a TRL 5 model and a paper (of which the abstract attached in this post is part and if you need it, feel free to write me an email) the idea is worth sharing, so I created the following post.
+This project was developed during the first semester of 2018 by me and the Ant team, and although it did not reach more than a TRL 5 model and a paper (of which the abstract attached in this post is part and if you need it, feel free to write me an email) the idea is worth sharing, so I created the following post. 
+## Please consider that everything that follows was written and developed in 2018.
 
 ![Alt text](antbook.png?raw=true "Antbook Logo")
 
@@ -26,6 +27,18 @@ But, why if the cloud is "as powerful" as seen on paper, we continue to carry he
 
 This is how in March 2018 I got to work to analyze if similar systems worked 100% "Cloud Based", and I found surprises such as the Nvidia Shield capable of streaming a large library of console games with the power of a cell phone. Or Latin American platforms such as GLOUD which (although at 720p) managed to stream smooth games and worked with a similar subscription system.
 But the one that caught my attention was Parsec (the one without a subscription system) offered to stream your computers, consoles and others without inputlag, over long distances and with a 10mbps connection.
+
+So, all of the above led me to think that there was no real limitation for not carrying out a cloud-based laptop, so I started to investigate the internet connection (That was perhaps the limitation by which something like this does not currently exist) and I found that the average speeds for 4g in Chile (My country) were 17.36Mbps of download and 8.55Mbps upload (According to Speedtest.net based on the average speed of Claro Chile on its 4g Network in the Metropolitan Region) and fixed connection ISP's have an average download of 52Mbps and 10Mbps of upload (According to Speedtest.net based on the average speed of Vtr Chile in its Fiber Optic Network in the Metropolitan Region), in this way It seems difficult to imagine that the internet could be a limitation.
+
+In the end we do not find technological limitations today (even more thinking about a world that is preparing to receive 5G in the coming years **)
+
+## Sooooooooo The Idea...
+
+First of all I have to clarify that this task is not new at all, it is something that has been carried out within offices for years through a thin client structure connected to a single server where all applications and programs run.
+
+![Alt text](Thin_clients.png?raw=true "Thin Clents Structure")
+
+Wikipedia defines a Thin client as "lightweight computer that has been optimized for establishing a remote connection with a server-based computing environment. The server does most of the work, which can include launching software programs, performing calculations, and storing data"
 
 --
 
