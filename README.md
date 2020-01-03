@@ -1,7 +1,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/fgvilches?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/fgvilches?style=social)
 Spanish post --> [im the spanish post :p](https://github.com/fgvilches/antbook/blob/master/ESP.MD)
-
 <div align="left">
   <br>
   <img src="ant_final.png" alt="Ant Logo" width="15%">
